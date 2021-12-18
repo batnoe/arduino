@@ -1,6 +1,8 @@
 # bernard.picasa14@gmail.com 
 
-1er essais sous GitHub
+Importer sur GitHub TFT_eSPI + la librairie BME280I2C.h
+
+
 
 Fichier de code pour ESP8266 et ESP32 et arduino léonardo
 
