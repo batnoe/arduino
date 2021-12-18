@@ -1,4 +1,6 @@
-# bernard.picasa14@gmail.com
+# bernard.picasa14@gmail.com 
+
+1er essais sous GitHub
 
 Fichier de code pour ESP8266 et ESP32 et arduino léonardo
 
