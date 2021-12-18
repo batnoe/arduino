@@ -1,4 +1,4 @@
-  #include <Adafruit_GFX.h>    // Core graphics library
+#include <Adafruit_GFX.h>    // Core graphics library
 #include <Adafruit_TFTLCD.h> // Hardware-specific library
 #include "DHT.h"
 #include "SPI.h"
